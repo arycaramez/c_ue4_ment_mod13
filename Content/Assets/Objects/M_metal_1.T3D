@@ -1,0 +1,79 @@
+Begin Object Class=/Script/Engine.Material Name="M_metal_1"
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.968750,G=0.968750,B=0.968750,A=0.000000)
+      MaterialExpressionEditorX=-464
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=21094F684CB2BAF04248BE9C7EC8934F
+      Material=Material'"M_metal_1"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.500000
+      MaterialExpressionEditorX=-180
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=A913F80A43E61A3D798766BD44BD9C89
+      Material=Material'"M_metal_1"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-185
+      MaterialExpressionEditorY=131
+      MaterialExpressionGuid=56331EEE40ECCC2ECE01D9BB83F27412
+      Material=Material'"M_metal_1"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionConstant3Vector'"M_metal_1:MaterialExpressionConstant3Vector_0"')
+      B=(Expression=MaterialExpressionTextureSample'"M_metal_1:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-144
+      MaterialExpressionGuid=9656AF09438C895CACB64E97C917D6FE
+      Material=Material'"M_metal_1"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      UTiling=3.000000
+      VTiling=3.000000
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=3A1D62EE4C854B4A4897F7982ABE37A1
+      Material=Material'"M_metal_1"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_metal_1:MaterialExpressionTextureCoordinate_0"')
+      Texture=Texture2D'"/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi"'
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=BAEDC993429C73246DD6518D8257BC6D
+      Material=Material'"M_metal_1"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_0"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_1"')
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(2)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(3)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(4)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(5)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=4085D0334D0A971406DCD197E90C05A2
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=D2CC87464D13256392FA47BC8A2DC83F
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=3.000000,UVChannelIndex=0,TextureName="tex_scifi",TextureReference=/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=73F83EF848ED0E40445E73A91BEFC2B0
+End Object

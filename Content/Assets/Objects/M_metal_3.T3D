@@ -1,0 +1,158 @@
+Begin Object Class=/Script/Engine.Material Name="M_metal_3"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="Intensity"
+      ExpressionGUID=A0430DD14AE654760A2972806C703846
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=4B032217486356E157E4738C0D1FA55F
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionMultiply'"M_metal_3:MaterialExpressionMultiply_0"')
+      B=(Expression=MaterialExpressionSine'"M_metal_3:MaterialExpressionSine_0"')
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=F7367DD94DA6F306D3CE91B6BBA0386F
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionMultiply'"M_metal_3:MaterialExpressionMultiply_1"')
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=166AE2CC4B64B9AD47A5B2885B3B1AF3
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionTime'"M_metal_3:MaterialExpressionTime_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_metal_3:MaterialExpressionScalarParameter_0"')
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=4D4CAA0742FBF8F24BE2848B61537E33
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="Frequency"
+      ExpressionGUID=9542476442872A708BA7478625620246
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=448
+      MaterialExpressionGuid=0C799F71427895F60F72ACB61320095D
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-963
+      MaterialExpressionEditorY=344
+      MaterialExpressionGuid=1CD09ABC4790F7CB5B5456B7A39A456E
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionMultiply'"M_metal_3:MaterialExpressionMultiply_2"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_metal_3:MaterialExpressionScalarParameter_1"')
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=F7367DD94DA6F306D3CE91B6BBA0386F
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      UTiling=3.000000
+      VTiling=3.000000
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=3A1D62EE4C854B4A4897F7982ABE37A1
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_0"
+      Constant=(R=0.000000,G=0.130226,B=0.968750,A=0.000000)
+      MaterialExpressionEditorX=-464
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=21094F684CB2BAF04248BE9C7EC8934F
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_metal_3:MaterialExpressionTextureCoordinate_0"')
+      Texture=Texture2D'"/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi"'
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=BAEDC993429C73246DD6518D8257BC6D
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      R=0.500000
+      MaterialExpressionEditorX=-180
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=A913F80A43E61A3D798766BD44BD9C89
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-185
+      MaterialExpressionEditorY=131
+      MaterialExpressionGuid=56331EEE40ECCC2ECE01D9BB83F27412
+      Material=Material'"M_metal_3"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionConstant3Vector'"M_metal_3:MaterialExpressionConstant3Vector_0"')
+      B=(Expression=MaterialExpressionTextureSample'"M_metal_3:MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-144
+      MaterialExpressionGuid=9656AF09438C895CACB64E97C917D6FE
+      Material=Material'"M_metal_3"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_0"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_1"')
+   EmissiveColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"')
+   Expressions(0)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(2)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(3)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(4)=MaterialExpressionConstant3Vector'"MaterialExpressionConstant3Vector_0"'
+   Expressions(5)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   Expressions(6)=MaterialExpressionTime'"MaterialExpressionTime_0"'
+   Expressions(7)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(8)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(9)=MaterialExpressionSine'"MaterialExpressionSine_0"'
+   Expressions(10)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(11)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(12)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=F705A2C341C4C61FB9316D8F81F91666
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(539241366688507044,4788805227935442984),ParameterInfos=((Name="Frequency"),(Name="Intensity")),ExpressionGuids=(9542476442872A708BA7478625620246,A0430DD14AE654760A2972806C703846)),ScalarValues=(1.000000,1.000000),ScalarMinMaxValues=((X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000)),ScalarCurveValues=(None,None),ScalarCurveAtlasValues=(None,None)),ReferencedTextures=(Texture2D'"/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=D2CC87464D13256392FA47BC8A2DC83F
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=3.000000,UVChannelIndex=0,TextureName="tex_scifi",TextureReference=/Game/Kitchen/Arkanoid/tex_scifi.tex_scifi)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B6EBD7FC46014472925EA3923CD7387B
+End Object

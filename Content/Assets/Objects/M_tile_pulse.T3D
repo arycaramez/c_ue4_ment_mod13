@@ -1,0 +1,124 @@
+Begin Object Class=/Script/Engine.Material Name="M_tile_pulse"
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSine Name="MaterialExpressionSine_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="Intensity"
+      ExpressionGUID=15A377CF4C73704D15FF7B938FCE5CBF
+      MaterialExpressionEditorX=-576
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=4B032217486356E157E4738C0D1FA55F
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionVectorParameter'"M_tile_pulse:MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionSine'"M_tile_pulse:MaterialExpressionSine_0"')
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=F7367DD94DA6F306D3CE91B6BBA0386F
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionSine_0"
+      Input=(Expression=MaterialExpressionMultiply'"M_tile_pulse:MaterialExpressionMultiply_1"')
+      MaterialExpressionEditorX=-688
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=166AE2CC4B64B9AD47A5B2885B3B1AF3
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionTime'"M_tile_pulse:MaterialExpressionTime_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_tile_pulse:MaterialExpressionScalarParameter_0"')
+      MaterialExpressionEditorX=-816
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=4D4CAA0742FBF8F24BE2848B61537E33
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=1.000000
+      ParameterName="Frequency"
+      ExpressionGUID=9A582110457A9C31286331B83A895366
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=0C799F71427895F60F72ACB61320095D
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionTime_0"
+      MaterialExpressionEditorX=-976
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=1CD09ABC4790F7CB5B5456B7A39A456E
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionMultiply'"M_tile_pulse:MaterialExpressionMultiply_2"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_tile_pulse:MaterialExpressionScalarParameter_1"')
+      MaterialExpressionEditorX=-400
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=F7367DD94DA6F306D3CE91B6BBA0386F
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.132453,G=0.760417,B=0.101496,A=1.000000)
+      ParameterName="Color"
+      ExpressionGUID=0B4B8C334E49186AF73E0C996D179725
+      MaterialExpressionEditorX=-864
+      MaterialExpressionGuid=D6327BA144019210D8090A831150A78E
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      MaterialExpressionEditorX=-289
+      MaterialExpressionEditorY=148
+      MaterialExpressionGuid=ABA50FDC41614A732E5DB2BC2D7B63E7
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-288
+      MaterialExpressionEditorY=64
+      MaterialExpressionGuid=E20276BD4C2FA1556818799C1B61C1F7
+      Material=Material'"M_tile_pulse"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_0"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_1"')
+   EmissiveColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"')
+   Expressions(0)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(1)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   Expressions(2)=MaterialExpressionMultiply'"MaterialExpressionMultiply_3"'
+   Expressions(3)=MaterialExpressionTime'"MaterialExpressionTime_0"'
+   Expressions(4)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(5)=MaterialExpressionMultiply'"MaterialExpressionMultiply_1"'
+   Expressions(6)=MaterialExpressionSine'"MaterialExpressionSine_0"'
+   Expressions(7)=MaterialExpressionMultiply'"MaterialExpressionMultiply_2"'
+   Expressions(8)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(9)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=CB1E17224F8D38832DB590BF7142AC01
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(539241366688507044,4788805227935442984),ParameterInfos=((Name="Frequency"),(Name="Intensity")),ExpressionGuids=(9A582110457A9C31286331B83A895366,15A377CF4C73704D15FF7B938FCE5CBF)),RuntimeEntries[1]=(NameHashes=(12279385124011487613),ParameterInfos=((Name="Color")),ExpressionGuids=(0B4B8C334E49186AF73E0C996D179725)),ScalarValues=(1.000000,1.000000),VectorValues=((R=0.132453,G=0.760417,B=0.101496,A=1.000000)),ScalarMinMaxValues=((X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000)),ScalarCurveValues=(None,None),ScalarCurveAtlasValues=(None,None),VectorChannelNameValues=(()),VectorUsedAsChannelMaskValues=(False)),QualityLevelsUsed=(False,False,False,False))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=FA693BBA4FA9950F619CAE83C3451477
+End Object

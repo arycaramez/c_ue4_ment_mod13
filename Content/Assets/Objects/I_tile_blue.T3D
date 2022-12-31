@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="I_tile_blue"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=0918E67E498C8490265C34B10C51570D
+   Parent=Material'"/Game/Kitchen/Arkanoid/M_tile_pulse.M_tile_pulse"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Color"),ParameterValue=(R=0.000000,G=0.056422,B=0.760417,A=1.000000),ExpressionGUID=0B4B8C334E49186AF73E0C996D179725)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=A82E02B04BC76D45C2BFAFB3BF2CDC45
+End Object
