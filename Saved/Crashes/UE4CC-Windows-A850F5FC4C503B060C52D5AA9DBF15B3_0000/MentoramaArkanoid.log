@@ -1,0 +1,1355 @@
+﻿Log file open, 12/29/22 20:36:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MentoramaArkanoid
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.518823
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz, GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/EpicGames/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.29-23.36.36:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.29-23.36.36:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:288][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:329][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.29-23.36.36:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.29-23.36.36:330][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.29-23.36.36:330][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.29-23.36.36:330][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.29-23.36.36:330][  0]LogHAL: Display: Platform has ~ 16 GB [17077583872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.29-23.36.36:331][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.29-23.36.36:331][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Scalability.ini]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.29-23.36.36:332][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Engine.ini]
+[2022.12.29-23.36.36:332][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/MentoramaArkanoid/Saved/Config/Windows/Editor.ini]
+[2022.12.29-23.36.36:332][  0]LogInit: Computer: DESKTOP-9UR4MJL
+[2022.12.29-23.36.36:332][  0]LogInit: User: AryGuilherme
+[2022.12.29-23.36.36:332][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.12.29-23.36.36:332][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.29-23.36.36:332][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.29-23.36.36:332][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.29-23.36.36:332][  0]LogMemory: Process Physical Memory: 155.11 MB used, 155.12 MB peak
+[2022.12.29-23.36.36:332][  0]LogMemory: Process Virtual Memory: 133.32 MB used, 133.32 MB peak
+[2022.12.29-23.36.36:332][  0]LogMemory: Physical Memory: 11176.64 MB used,  5109.82 MB free, 16286.45 MB total
+[2022.12.29-23.36.36:332][  0]LogMemory: Virtual Memory: 134208952.00 MB used,  8774.50 MB free, 134217728.00 MB total
+[2022.12.29-23.36.36:341][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.29-23.36.36:652][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.29-23.36.36:661][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.12.29-23.36.36:661][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.12.29-23.36.37:593][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.29-23.36.37:617][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.29-23.36.37:671][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.29-23.36.37:671][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.29-23.36.39:709][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.29-23.36.39:714][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.29-23.36.39:714][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.29-23.36.39:714][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.29-23.36.39:714][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.29-23.36.39:784][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2022.12.29-23.36.39:785][  0]LogD3D11RHI:       4074/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     Description : Radeon RX 570 Series
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     SubSysId    : c5701682
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     Revision    : 00ef
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     DedicatedVideoMemory : 4272934912 bytes
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     SharedSystemMemory : 8538791936 bytes
+[2022.12.29-23.36.39:797][  0]LogD3D11RHI:     AdapterLuid : 0 111481
+[2022.12.29-23.36.39:804][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.29-23.36.39:804][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2022.12.29-23.36.39:804][  0]LogWindows: EnumDisplayDevices:
+[2022.12.29-23.36.39:805][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2022.12.29-23.36.39:805][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:1)
+[2022.12.29-23.36.39:806][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.12.29-23.36.39:806][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.12.29-23.36.39:807][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.12.29-23.36.39:807][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.12.29-23.36.39:808][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2022.12.29-23.36.39:808][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.12.29-23.36.39:808][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2022.12.29-23.36.39:808][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.27.07 (internal:31.0.12027.7000, unified:31.0.12027.7000)
+[2022.12.29-23.36.39:808][  0]LogD3D11RHI:      Driver Date: 10-20-2022
+[2022.12.29-23.36.39:808][  0]LogRHI: Texture pool is 2424 MB (70% of 3463 MB)
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     Description : Radeon RX 570 Series
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     DeviceId    : 67df
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     SubSysId    : c5701682
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     Revision    : 00ef
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     DedicatedVideoMemory : 4272934912 bytes
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     SharedSystemMemory : 8538791936 bytes
+[2022.12.29-23.36.39:900][  0]LogD3D11RHI:     AdapterLuid : 0 111481
+[2022.12.29-23.36.39:961][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.12.29-23.36.39:961][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.29-23.36.39:961][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.29-23.36.39:961][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.29-23.36.39:979][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.12.29-23.36.40:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.29-23.36.40:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.29-23.36.40:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.29-23.36.40:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.29-23.36.40:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.29-23.36.40:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.29-23.36.40:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.29-23.36.40:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.29-23.36.40:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.29-23.36.40:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.29-23.36.40:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.29-23.36.40:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.29-23.36.40:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.29-23.36.41:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.29-23.36.41:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.29-23.36.41:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.29-23.36.41:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.29-23.36.41:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.29-23.36.41:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.29-23.36.41:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.29-23.36.41:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.29-23.36.41:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.29-23.36.41:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.29-23.36.41:185][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.29-23.36.41:273][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.29-23.36.41:472][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.29-23.36.41:725][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.29-23.36.41:725][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../UnrealProjects/MentoramaArkanoid/Intermediate/Shaders/WorkingDirectory/9128/).
+[2022.12.29-23.36.41:725][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AryGuilherme/AppData/Local/Temp/UnrealShaderWorkingDir/8195FE454239267EC7E4CC96FCF5EFD4/'.
+[2022.12.29-23.36.41:725][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.29-23.36.41:726][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.29-23.36.41:726][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.29-23.36.44:337][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: Loaded boot cache 0.12s 94MB C:/Users/AryGuilherme/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AryGuilherme/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/MentoramaArkanoid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/MentoramaArkanoid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.29-23.36.44:460][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.29-23.36.44:502][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.29-23.36.44:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.29-23.36.44:502][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.29-23.36.44:559][  0]LogDerivedDataCache: Speed tests for C:/Users/AryGuilherme/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.12.29-23.36.44:559][  0]LogDerivedDataCache: Display: Performance to C:/Users/AryGuilherme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=182.55MBs, RandomWriteSpeed=18.09MBs. Assigned SpeedClass 'Local'
+[2022.12.29-23.36.44:560][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AryGuilherme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.29-23.36.44:561][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.29-23.36.44:561][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.29-23.36.44:620][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.29-23.36.44:621][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.29-23.36.44:925][  0]LogAssetRegistry: FAssetRegistry took 0.0038 seconds to start up
+[2022.12.29-23.36.45:328][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.29-23.36.45:328][  0]LogInit: Active device profile: [0000018A4B4F8B00][0000018A49FD8540 49] Windows
+[2022.12.29-23.36.45:328][  0]LogInit: Profiles: [0000018A4B4F8B00][0000018A49FD8540 49] Windows, [0000018A4B4C6200][0000018A49FDC680 49] WindowsNoEditor, [0000018A4B4F9900][0000018A49FE07C0 49] WindowsServer, [0000018A4B4C6F00][0000018A49FE8940 49] WindowsClient, [0000018A4B4FBC00][0000018A49FECAC0 49] IOS, [0000018A4B4C4F00][0000018A49FF0C40 49] iPadAir, [0000018A4B4FBE00][0000018A49FF4DC0 49] iPadAir2, [0000018A4B478C00][0000018A49FFD080 49] IPadPro, [0000018A4B478D00][0000018A49FF90C0 49] iPadAir3, [0000018A4B4C7C00][0000018A4A001240 49] iPadAir4, [0000018A4B47B600][0000018A4A0053C0 49] iPadMini2, [0000018A4B4C7300][0000018A4A009540 49] iPadMini3, [0000018A4B47B800][0000018A4A00D6C0 49] iPadMini4, [0000018A4B4C7900][0000018A4A011840 49] iPadMini5, [0000018A4B4B8600][0000018A4A019B00 49] iPhone6, [0000018A4B4B8700][0000018A4A015B40 49] iPodTouch6, [0000018A4B4FA900][0000018A4A020280 49] iPhone7, [0000018A4B4FA800][0000018A4A01C2C0 49] iPodTouch7, [0000018A4B4B8100][0000018A4A024440 49] iPhone5S, [0000018A4B478700][0000018A49FE4580 49] iPhone6Plus, [0000018A4B4BA500][0000018A4A0286C0 49] iPhone6S, [0000018A4B479300][0000018A4A02C800 49] iPhone6SPlus, [0000018A4B4BBB00][0000018A4A030940 49] iPhone7Plus, [0000018A4B47B500][0000018A4A038AC0 49] iPhoneSE, [0000018A4B4FA600][0000018A4A03CC40 49] iPhone8, [0000018A4B478600][0000018A4A040DC0 49] iPhone8Plus, [0000018A4B4FA200][0000018A4A044F40 49] iPhoneX, [0000018A4B47B300][0000018A4A0490C0 49] iPhoneXS, [0000018A4B4FB400][0000018A4A04D240 49] iPhoneXSMax, [0000018A4B47AD00][0000018A4A0513C0 49] iPhoneXR, [0000018A4B4F8200][0000018A4A055540 49] iPhone11, [0000018A4B479E00][0000018A4A0596C0 49] iPhone11Pro, [0000018A4B4FAA00][0000018A4A05D840 49] iPhone11ProMax, [0000018A4B47B700][0000018A4A0619C0 49] iPhoneSE2, [0000018A4B4F8D00][0000018A4A065B40 49] iPhone12Mini, [0000018A4B479F00][0000018A4A068140 49] iPhone12, [0000018A4B4F8700][0000018A4A06C2C0 49] iPhone12Pro, [0000018A4B479400][0000018A4A070440 49] iPhone12ProMax, [0000018A4B4F8C00][0000018A4A0745C0 49] iPadPro105, [0000018A4B479700][0000018A4A078740 49] iPadPro129, [0000018A4B4F8100][0000018A4A034880 49] iPadPro97, [0000018A4B47BC00][0000018A4A07C9C0 49] iPadPro2_129, [0000018A4B4F8800][0000018A4A080B00 49] iPad5, [0000018A4B47B100][0000018A4A088C80 49] iPad6, [0000018A4B4F8500][0000018A4A08CE00 49] iPad7, [0000018A4B47A800][0000018A4A090F80 49] iPad8, [0000018A4B4F9500][0000018A4A095100 49] iPadPro11, [0000018A4B479500][0000018A4A099280 49] iPadPro2_11, [0000018A4B4F8F00][0000018A4A09D400 49] iPadPro3_129, [0000018A4B47AC00][0000018A4A0A1580 49] iPadPro4_129, [0000018A4B4FA500][0000018A4A0A5700 49] AppleTV, [0000018A4B479100][0000018A4A0A9880 49] AppleTV4K, [0000018A4B4F8400][0000018A4A0ADA00 49] TVOS, [0000018A4B47A600][0000018A4A0B1B80 49] Mac, [0000018A4B4FBD00][0000018A4A0B4180 49] MacClient, [0000018A4B479800][0000018A4A0B8300 49] MacNoEditor, [0000018A4B4FB100][0000018A4A0BC480 49] MacServer, [0000018A4B47B900][0000018A4A0C0600 49] Linux, [0000018A4B4F8900][0000018A4A0C4780 49] LinuxAArch64, [0000018A4B47BF00][0000018A4A0C8900 49] LinuxNoEditor, [0000018A4B4F9B00][0000018A4A084A40 49] LinuxAArch64NoEditor, [0000018A4B47B400][0000018A4A0CCB80 49] LinuxClient, [0000018A4B4F9C00][0000018A4A0D0CC0 49] LinuxAArch64Client, [0000018A4B479D00][0000018A4A0D8E40 49] LinuxServer, [0000018A4B4FAF00][0000018A4A0DCFC0 49] LinuxAArch64Server, [0000018A4B478500][0000018A4A0E1140 49] Android, [0000018A4B4F9E00][0000018A4A0E52C0 49] Android_Low, [0000018A4B47B000][0000018A4A0E9440 49] Android_Mid, [0000018A4B4FA400][0000018A4A0ED5C0 49] Android_High, [0000018A4B478800][0000018A4A0F1740 49] Android_Default, [0000018A4B4FB200][0000018A4A0F58C0 49] Android_Adreno4xx, [0000018A4B4C6500][0000018A4A0F9A40 49] Android_Adreno5xx_Low, [0000018A4B4B9C00][0000018A4A0FDBC0 49] Android_Adreno5xx, [0000018A4B4C7E00][0000018A4A1001C0 49] Android_Adreno6xx, [0000018A4B4BAB00][0000018A4A104340 49] Android_Adreno6xx_Vulkan, [0000018A4B4C7F00][0000018A4A1084C0 49] Android_Mali_T6xx, [0000018A4B4B8F00][0000018A4A10C640 49] Android_Mali_T7xx, [0000018A4B4C5400][0000018A4A1107C0 49] Android_Mali_T8xx, [0000018A4B4B9F00][0000018A4A114940 49] Android_Mali_G71, [0000018A4B4C5D00][0000018A4A118AC0 49] Android_Mali_G72, [0000018A4B4BA400][0000018A4A0D4C00 49] Android_Mali_G72_Vulkan, [0000018A4B4C7700][0000018A4A11CD40 49] Android_Mali_G76, [0000018A4B4BA100][0000018A4A120E80 49] Android_Mali_G76_Vulkan, [0000018A4B4C5C00][0000018A4A124FC0 49] Android_Mali_G77, [0000018A4B4B8A00][0000018A4A12D140 49] Android_Mali_G77_Vulkan, [0000018A4B4C7500][0000018A4A1312C0 49] Android_Mali_G78, [0000018A4B4B9300][0000018A4A135440 49] Android_Mali_G78_Vulkan, [0000018A4B4C6A00][0000018A4A1395C0 49] Android_Mali_G710, [0000018A4B4BBD00][0000018A4A13D740 49] Android_Mali_G710_Vulkan, [0000018A4B4C5F00][0000018A4A1418C0 49] Android_Vulkan_SM5, [0000018A4B4B8900][0000018A4A145A40 49] Android_PowerVR_G6xxx, [0000018A4B4C6000][0000018A4A149BC0 49] Android_PowerVR_GT7xxx, [0000018A4B4BA700][0000018A4A14C1C0 49] Android_PowerVR_GE8xxx, [0000018A4B4C6400][0000018A4A150340 49] Android_PowerVR_GM9xxx, [0000018A4B4BB200][0000018A4A1544C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000018A4B4C7100][0000018A4A158640 49] Android_TegraK1, [0000018A4B4B9700][0000018A4A15C7C0 49] Android_Unknown_Vulkan, [0000018A4B4C7800][0000018A4A160940 49] Lumin, [0000018A4B4B8200][0000018A4A164AC0 49] Lumin_Desktop, [0000018A4B4C6300][0000018A4A168C40 49] HoloLens, 
+[2022.12.29-23.36.46:172][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.29-23.36.46:172][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.29-23.36.46:172][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.29-23.36.46:172][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.29-23.36.46:172][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.29-23.36.46:427][  0]LogNetVersion: MentoramaArkanoid 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2628309860)
+[2022.12.29-23.36.58:688][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.29-23.36.59:156][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.29-23.36.59:169][  0]LogUObjectArray: 17179 objects as part of root set at end of initial load.
+[2022.12.29-23.36.59:170][  0]LogUObjectAllocator: 4302256 out of 0 bytes used by permanent object pool.
+[2022.12.29-23.36.59:170][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.29-23.37.01:869][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 373DAE5C468B872F8D1282ACF1471350 | Instance: F5BC96E74990290AA72488A407AE39A2 (DESKTOP-9UR4MJL-9128).
+[2022.12.29-23.37.02:301][  0]LogPython: Using Python 3.7.7
+[2022.12.29-23.37.04:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.29-23.37.04:249][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.29-23.37.06:611][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.06:611][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.06:677][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.06:733][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.06:761][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.06:948][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.29-23.37.07:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.29-23.37.07:364][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.29-23.37.07:364][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.29-23.37.08:306][  0]LogUProjectInfo: Found projects:
+[2022.12.29-23.37.08:368][  0]LogCollectionManager: Loaded 0 collections in 0.003239 seconds
+[2022.12.29-23.37.08:645][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MentoramaArkanoid/Saved/Collections/' took 0.00s
+[2022.12.29-23.37.08:646][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MentoramaArkanoid/Content/Developers/AryGuilherme/Collections/' took 0.00s
+[2022.12.29-23.37.08:646][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MentoramaArkanoid/Content/Collections/' took 0.00s
+[2022.12.29-23.37.08:646][  0]LogOcInput: OculusInput pre-init called
+[2022.12.29-23.37.09:382][  0]LogEngine: Initializing Engine...
+[2022.12.29-23.37.09:398][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.29-23.37.09:399][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.29-23.37.09:399][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.29-23.37.09:400][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.29-23.37.10:031][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.29-23.37.10:062][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.29-23.37.10:063][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.29-23.37.10:107][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.29-23.37.10:116][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.29-23.37.10:117][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.29-23.37.10:117][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.29-23.37.10:117][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-23.37.10:117][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-23.37.10:117][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-23.37.10:117][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-23.37.10:118][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-23.37.10:118][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.29-23.37.10:165][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.29-23.37.10:165][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.29-23.37.10:264][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (HyperX Cloud Stinger Core Wireless + 7.1)
+[2022.12.29-23.37.10:265][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-23.37.10:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-23.37.10:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-23.37.10:284][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.29-23.37.10:284][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.29-23.37.10:284][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.29-23.37.10:285][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.29-23.37.10:285][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.29-23.37.10:285][  0]LogInit: FAudioDevice initialized.
+[2022.12.29-23.37.10:286][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.29-23.37.10:286][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.29-23.37.10:356][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/AryGuilherme/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.29-23.37.10:362][  0]LogInit: Texture streaming: Enabled
+[2022.12.29-23.37.10:492][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.29-23.37.10:531][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.29-23.37.10:532][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4A485414-4AF8-D819-20FE-A7A9C405ACBD}
+[2022.12.29-23.37.10:532][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.29-23.37.10:548][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.29-23.37.10:678][  0]LogInit: Transaction tracking system initialized
+[2022.12.29-23.37.11:163][  0]BlueprintLog: New page: Editor Load
+[2022.12.29-23.37.11:571][  0]LocalizationService: Localization service is disabled
+[2022.12.29-23.37.11:818][  0]TimingProfiler: Initialize
+[2022.12.29-23.37.11:819][  0]TimingProfiler: OnSessionChanged
+[2022.12.29-23.37.11:819][  0]LoadingProfiler: Initialize
+[2022.12.29-23.37.11:819][  0]LoadingProfiler: OnSessionChanged
+[2022.12.29-23.37.11:819][  0]NetworkingProfiler: Initialize
+[2022.12.29-23.37.11:819][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.29-23.37.11:819][  0]MemoryProfiler: Initialize
+[2022.12.29-23.37.11:819][  0]MemoryProfiler: OnSessionChanged
+[2022.12.29-23.37.12:904][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.29-23.37.12:904][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.29-23.37.13:476][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/MentoramaArkanoid/Content/' took 0.05s
+[2022.12.29-23.37.16:508][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.29-23.37.16:526][  0]SourceControl: Source control is disabled
+[2022.12.29-23.37.16:526][  0]LogUnrealEdMisc: Loading editor; pre map load, took 44.568
+[2022.12.29-23.37.16:526][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/MentoramaArkanoid/Content/Levels/Level_01/MapLevel_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.29-23.37.16:567][  0]LightingResults: New page: Lighting Build
+[2022.12.29-23.37.16:635][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-23.37.16:635][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-23.37.16:636][  0]MapCheck: New page: Map Check
+[2022.12.29-23.37.16:636][  0]LightingResults: New page: Lighting Build
+[2022.12.29-23.37.16:668][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.29-23.37.16:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.29-23.37.22:278][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapLevel_01'.
+[2022.12.29-23.37.22:279][  0]LogAIModule: Creating AISystem for world MapLevel_01
+[2022.12.29-23.37.22:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.29-23.37.22:434][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.12.29-23.37.22:435][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.29-23.37.22:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.12.29-23.37.22:435][  0]LogFileHelpers: Loading map 'MapLevel_01' took 5.909
+[2022.12.29-23.37.22:466][  0]LogUnrealEdMisc: Total Editor Startup Time, took 50.509
+[2022.12.29-23.37.22:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.37.22:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.37.22:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.37.22:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.37.22:913][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0140 seconds. Added 3830 classes and 930 folders.
+[2022.12.29-23.37.23:010][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2022.12.29-23.37.23:118][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.29-23.37.23:118][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:118][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.29-23.37.23:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:118][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.29-23.37.23:118][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2022.12.29-23.37.23:130][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.29-23.37.23:130][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:130][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.29-23.37.23:130][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:130][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.29-23.37.23:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2022.12.29-23.37.23:171][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.29-23.37.23:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.29-23.37.23:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.29-23.37.23:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.12.29-23.37.23:277][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.29-23.37.23:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.29-23.37.23:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:277][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.29-23.37.23:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.12.29-23.37.23:292][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.29-23.37.23:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.29-23.37.23:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.29-23.37.23:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2022.12.29-23.37.23:296][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.29-23.37.23:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.29-23.37.23:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:296][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.29-23.37.23:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.12.29-23.37.23:299][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.29-23.37.23:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.29-23.37.23:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.29-23.37.23:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.12.29-23.37.23:344][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.29-23.37.23:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.29-23.37.23:344][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:344][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.29-23.37.23:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.12.29-23.37.23:369][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.29-23.37.23:369][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:369][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.29-23.37.23:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.29-23.37.23:369][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.12.29-23.37.23:422][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.29-23.37.23:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.29-23.37.23:422][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:422][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.29-23.37.23:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.12.29-23.37.23:456][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.29-23.37.23:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.29-23.37.23:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.29-23.37.23:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000104
+[2022.12.29-23.37.23:463][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.29-23.37.23:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.29-23.37.23:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.29-23.37.23:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.12.29-23.37.23:467][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.29-23.37.23:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.29-23.37.23:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.29-23.37.23:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.12.29-23.37.23:492][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.29-23.37.23:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.29-23.37.23:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.29-23.37.23:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.12.29-23.37.23:570][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.29-23.37.23:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.29-23.37.23:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.29-23.37.23:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2022.12.29-23.37.23:574][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.29-23.37.23:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.29-23.37.23:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.29-23.37.23:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.29-23.37.23:602][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.29-23.37.23:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.29-23.37.23:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.29-23.37.23:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.12.29-23.37.23:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.29-23.37.23:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.29-23.37.23:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:615][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.29-23.37.23:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.12.29-23.37.23:617][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.29-23.37.23:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.29-23.37.23:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.29-23.37.23:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.29-23.37.23:620][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.29-23.37.23:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.29-23.37.23:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:620][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.29-23.37.23:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.29-23.37.23:623][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.29-23.37.23:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.29-23.37.23:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:623][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.29-23.37.23:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.29-23.37.23:627][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.29-23.37.23:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.29-23.37.23:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.29-23.37.23:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.12.29-23.37.23:632][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.29-23.37.23:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.29-23.37.23:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.29-23.37.23:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.12.29-23.37.23:636][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.29-23.37.23:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.29-23.37.23:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:636][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.29-23.37.23:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.12.29-23.37.23:639][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.29-23.37.23:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.29-23.37.23:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:640][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.29-23.37.23:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.29-23.37.23:679][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.29-23.37.23:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.29-23.37.23:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.29-23.37.23:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/EpicGames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.29-23.37.23:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/EpicGames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.29-23.37.23:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.12.29-23.37.26:415][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.12.29-23.37.26:422][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.12.29-23.37.26:603][  0]LogSlate: Took 0.000449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.29-23.37.26:668][  0]LogSlate: Took 0.062527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.29-23.37.26:675][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.29-23.37.26:995][  0]LogRenderer: Reallocating scene render targets to support 1060x520 Format 10 NumSamples 1 (Frame:1).
+[2022.12.29-23.37.27:029][  0]LogSlate: Took 0.016579 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.29-23.37.27:676][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.29-23.37.28:004][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.29-23.37.28:004][  0]LogLoad: (Engine Initialization) Total time: 56.05 seconds
+[2022.12.29-23.37.28:004][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.29-23.37.28:054][  0]LogAssetRegistry: Asset discovery search completed in 43.1307 seconds
+[2022.12.29-23.37.28:192][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.29-23.37.28:195][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.29-23.37.31:695][385]Candidate modules for hot reload:
+[2022.12.29-23.37.31:695][385]  MentoramaArkanoid
+[2022.12.29-23.37.31:695][385]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,2456 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.29-23.37.31:715][385]Warning: Starting HotReload took  0.1s.
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 5:37:37 PM
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: Building 4 actions with 24 processes...
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:   [1/4] MentoramaArkanoidGameModeBase.cpp
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:   [2/4] UE4Editor-MentoramaArkanoid-2456.lib
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-2456.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-2456.exp
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:   [3/4] UE4Editor-MentoramaArkanoid-2456.dll
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-2456.suppressed.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-2456.suppressed.exp
+[2022.12.29-23.37.37:343][982]CompilerResultsLog:   [4/4] MentoramaArkanoidEditor.target
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: Total time in Parallel executor: 4,09 seconds
+[2022.12.29-23.37.37:343][982]CompilerResultsLog: Total execution time: 5,19 seconds
+[2022.12.29-23.37.37:343][982]LogMainFrame: MainFrame: Module compiling took 5.745 seconds
+[2022.12.29-23.37.37:371][982]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MentoramaArkanoid' in 0.0004 seconds. Added 8 classes and 2 folders.
+[2022.12.29-23.37.37:374][982]Display: HotReload successful (17 functions remapped  0 scriptstructs remapped)
+[2022.12.29-23.37.37:464][982]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0122 seconds. Added 3830 classes and 930 folders.
+[2022.12.29-23.37.37:464][982]Display: HotReload took  5.9s.
+[2022.12.29-23.37.39:899][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.29-23.37.40:325][215]LogSavePackage: Moving '../../../../../UnrealProjects/MentoramaArkanoid/Saved/MapLevel_0125C4D16948E89B11E2341DABCF9041E4.tmp' to '../../../../../UnrealProjects/MentoramaArkanoid/Content/Levels/Level_01/MapLevel_01.umap'
+[2022.12.29-23.37.40:487][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01/MapLevel_01_BuiltData" FILE="../../../../../UnrealProjects/MentoramaArkanoid/Content/Levels/Level_01/MapLevel_01_BuiltData.uasset" SILENT=true
+[2022.12.29-23.37.40:565][215]LogSavePackage: Moving '../../../../../UnrealProjects/MentoramaArkanoid/Saved/MapLevel_01_BuiltDataCE6310D84117A01CFF4053A388D8DED7.tmp' to '../../../../../UnrealProjects/MentoramaArkanoid/Content/Levels/Level_01/MapLevel_01_BuiltData.uasset'
+[2022.12.29-23.37.40:599][215]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.29-23.37.40:606][215]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_01/MapLevel_01_BuiltData.MapLevel_01_BuiltData
+[2022.12.29-23.37.40:607][215]LogContentValidation: Display: Validating World /Game/Levels/Level_01/MapLevel_01.MapLevel_01
+[2022.12.29-23.37.42:165][396]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.29-23.37.42:184][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.29-23.37.42:184][396]PIE: New page: PIE session: MapLevel_01 (Dec 29, 2022, 5:37:42 PM)
+[2022.12.29-23.37.42:235][396]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.29-23.37.42:237][396]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.29-23.37.42:237][396]LogPlayLevel: Creating play world package: /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.29-23.37.42:240][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003005s)
+[2022.12.29-23.37.42:241][396]LogAIModule: Creating AISystem for world MapLevel_01
+[2022.12.29-23.37.42:241][396]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2022.12.29-23.37.42:242][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01/MapLevel_01.MapLevel_01 to /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 (0.004538s)
+[2022.12.29-23.37.42:253][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.29-23.37.42:254][396]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.29-23.37.42:254][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.29-23.37.42:254][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.29-23.37.42:255][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.29-23.37.42:255][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.29-23.37.42:255][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.29-23.37.42:255][396]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.29-23.37.42:279][396]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.29-23.37.42:279][396]LogAudioMixer: Display: 1: FrontRight
+[2022.12.29-23.37.42:313][396]LogAudioMixer: Display: Using Audio Device Alto-falantes (HyperX Cloud Stinger Core Wireless + 7.1)
+[2022.12.29-23.37.42:314][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.29-23.37.42:314][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.29-23.37.42:314][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.29-23.37.42:314][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.29-23.37.42:314][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.29-23.37.42:314][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.29-23.37.42:317][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.29-23.37.42:317][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.29-23.37.42:317][396]LogInit: FAudioDevice initialized.
+[2022.12.29-23.37.42:317][396]LogAudio: Display: Audio Device (ID: 2) registered with world 'MapLevel_01'.
+[2022.12.29-23.37.42:328][396]LogLoad: Game class is 'BP_ArkanoidGameMode_C'
+[2022.12.29-23.37.42:330][396]LogWorld: Bringing World /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 up for play (max tick rate 0) at 2022.12.29-20.37.42
+[2022.12.29-23.37.42:331][396]LogWorld: Bringing up level for play took: 0.000993
+[2022.12.29-23.37.42:331][396]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.12.29-23.37.42:410][396]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.12.29-23.37.42:412][396]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.29-23.37.42:413][396]PIE: Server logged in
+[2022.12.29-23.37.42:415][396]PIE: Play in editor total start time 0.239 seconds.
+[2022.12.29-23.38.52:297][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.38.52:297][581]LogWorld: BeginTearingDown for /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.29-23.38.52:297][581]LogWorld: UWorld::CleanupWorld for MapLevel_01, bSessionEnded=true, bCleanupResources=true
+[2022.12.29-23.38.52:297][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-23.38.52:308][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.29-23.38.52:309][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.29-23.38.52:317][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.29-23.38.52:317][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.29-23.38.52:320][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.29-23.38.52:330][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.29-23.38.52:359][582]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.12.30-00.07.16:849][999]Candidate modules for hot reload:
+[2022.12.30-00.07.16:850][999]  MentoramaArkanoid
+[2022.12.30-00.07.16:850][999]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,3413 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-00.07.16:869][999]Warning: Starting HotReload took  0.1s.
+[2022.12.30-00.07.18:504][122]LogSlate: Took 0.056131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.30-00.07.59:168][490]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 6:07:59 PM
+[2022.12.30-00.07.59:168][490]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-00.07.59:168][490]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-00.07.59:168][490]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-00.07.59:169][490]CompilerResultsLog: Error: D:/UnrealProjects/MentoramaArkanoid/Source/MentoramaArkanoid/MentoramaArkanoidGameModeBase.h(44)  : Error: Member variable declaration: 'TimeToStartRound' cannot be defined in 'MentoramaArkanoidGameModeBase' as it is already defined in scope 'Class /Script/MentoramaArkanoid.MentoramaArkanoidGameModeBase' (shadowing is not allowed)
+[2022.12.30-00.07.59:169][490]LogMainFrame: MainFrame: Module compiling took 42.325 seconds
+[2022.12.30-00.07.59:216][490]Warning: HotReload failed, recompile failed
+[2022.12.30-00.08.03:501][946]LogSlate: Took 0.028296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.30-00.08.08:772][530]LogVSAccessor: Warning: Couldn't goto line number '44' in 'D:/UnrealProjects/MentoramaArkanoid/Source/MentoramaArkanoid/MentoramaArkanoidGameModeBase.h'
+[2022.12.30-00.09.54:159][405]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-00.09.54:167][405]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-00.09.55:430][542]Candidate modules for hot reload:
+[2022.12.30-00.09.55:430][542]  MentoramaArkanoid
+[2022.12.30-00.09.55:430][542]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,7464 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-00.09.55:444][542]Warning: Starting HotReload took  0.0s.
+[2022.12.30-00.10.01:125][147]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 6:10:01 PM
+[2022.12.30-00.10.01:125][147]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-00.10.01:125][147]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-00.10.01:125][147]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-00.10.01:125][147]LogMainFrame: MainFrame: Module compiling took 5.700 seconds
+[2022.12.30-00.10.01:125][147]Warning: HotReload failed, recompile failed
+[2022.12.30-00.10.27:246][472]Candidate modules for hot reload:
+[2022.12.30-00.10.27:246][472]  MentoramaArkanoid
+[2022.12.30-00.10.27:246][472]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,8981 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-00.10.27:309][472]Warning: Starting HotReload took  0.1s.
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 6:16:20 PM
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 4,9177128 seconds
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Building 6 actions with 24 processes...
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [1/6] MentoramaArkanoid.init.gen.cpp
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [2/6] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [3/6] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [4/6] UE4Editor-MentoramaArkanoid-8981.lib
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-8981.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-8981.exp
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [5/6] UE4Editor-MentoramaArkanoid-8981.dll
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-8981.suppressed.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-8981.suppressed.exp
+[2022.12.30-00.16.20:666][989]CompilerResultsLog:   [6/6] MentoramaArkanoidEditor.target
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Total time in Parallel executor: 347,03 seconds
+[2022.12.30-00.16.20:666][989]CompilerResultsLog: Total execution time: 353,17 seconds
+[2022.12.30-00.16.20:666][989]LogMainFrame: MainFrame: Module compiling took 353.428 seconds
+[2022.12.30-00.16.20:678][989]LogClass: Could not find existing class MentoramaArkanoidGameModeBase in package /Script/MentoramaArkanoid for HotReload, assuming new class
+[2022.12.30-00.16.20:678][989]LogClass: Function LoadRound is new.
+[2022.12.30-00.16.20:678][989]LogClass: Function OnAllBricksDestroyed is new.
+[2022.12.30-00.16.20:685][989]LogHotReload: Re-instancing MentoramaArkanoidGameModeBase after hot-reload.
+[2022.12.30-00.16.21:053][989]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MentoramaArkanoid' in 0.0009 seconds. Added 8 classes and 2 folders.
+[2022.12.30-00.16.21:062][989]Display: HotReload successful (16 functions remapped  0 scriptstructs remapped)
+[2022.12.30-00.16.21:125][989]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0126 seconds. Added 3830 classes and 930 folders.
+[2022.12.30-00.16.21:126][989]Display: HotReload took 353.9s.
+[2022.12.30-00.18.07:644][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.30-00.18.07:663][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.30-00.18.07:663][ 82]PIE: New page: PIE session: MapLevel_01 (Dec 29, 2022, 6:18:07 PM)
+[2022.12.30-00.18.07:664][ 82]LogPlayLevel: Creating play world package: /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.30-00.18.07:667][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003128s)
+[2022.12.30-00.18.07:668][ 82]LogAIModule: Creating AISystem for world MapLevel_01
+[2022.12.30-00.18.07:668][ 82]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2022.12.30-00.18.07:668][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01/MapLevel_01.MapLevel_01 to /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 (0.004880s)
+[2022.12.30-00.18.07:996][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.12.30-00.18.07:999][ 82]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.30-00.18.07:999][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.30-00.18.07:999][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.30-00.18.08:000][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.30-00.18.08:000][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.30-00.18.08:000][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.30-00.18.08:000][ 82]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.30-00.18.08:036][ 82]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.30-00.18.08:036][ 82]LogAudioMixer: Display: 1: FrontRight
+[2022.12.30-00.18.08:070][ 82]LogAudioMixer: Display: Using Audio Device Alto-falantes (HyperX Cloud Stinger Core Wireless + 7.1)
+[2022.12.30-00.18.08:071][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.30-00.18.08:071][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.30-00.18.08:071][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.30-00.18.08:072][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.30-00.18.08:073][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.30-00.18.08:073][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.30-00.18.08:074][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.30-00.18.08:074][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.30-00.18.08:074][ 82]LogInit: FAudioDevice initialized.
+[2022.12.30-00.18.08:074][ 82]LogAudio: Display: Audio Device (ID: 3) registered with world 'MapLevel_01'.
+[2022.12.30-00.18.08:115][ 82]LogLoad: Game class is 'BP_ArkanoidGameMode_C'
+[2022.12.30-00.18.08:116][ 82]LogWorld: Bringing World /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 up for play (max tick rate 0) at 2022.12.29-21.18.08
+[2022.12.30-00.18.08:117][ 82]LogWorld: Bringing up level for play took: 0.001112
+[2022.12.30-00.18.08:117][ 82]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.12.30-00.18.08:137][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.30-00.18.08:164][ 82]PIE: Server logged in
+[2022.12.30-00.18.08:165][ 82]PIE: Play in editor total start time 0.511 seconds.
+[2022.12.30-00.18.15:974][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-00.18.15:974][993]LogWorld: BeginTearingDown for /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.30-00.18.15:974][993]LogWorld: UWorld::CleanupWorld for MapLevel_01, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-00.18.15:974][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-00.18.15:986][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.30-00.18.15:988][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-00.18.15:996][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.30-00.18.15:996][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-00.18.15:997][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-00.18.16:004][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-00.18.16:006][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.30-00.18.16:054][995]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.30-01.11.02:033][758]Candidate modules for hot reload:
+[2022.12.30-01.11.02:033][758]  MentoramaArkanoid
+[2022.12.30-01.11.02:033][758]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,6392 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.11.02:051][758]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:11:52 PM
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 5,276471 seconds
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Building 6 actions with 24 processes...
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [1/6] MentoramaArkanoid.init.gen.cpp
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [2/6] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [3/6] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [4/6] UE4Editor-MentoramaArkanoid-6392.lib
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-6392.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-6392.exp
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [5/6] UE4Editor-MentoramaArkanoid-6392.dll
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-6392.suppressed.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-6392.suppressed.exp
+[2022.12.30-01.11.52:002][981]CompilerResultsLog:   [6/6] MentoramaArkanoidEditor.target
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Total time in Parallel executor: 34,98 seconds
+[2022.12.30-01.11.52:002][981]CompilerResultsLog: Total execution time: 49,69 seconds
+[2022.12.30-01.11.52:002][981]LogMainFrame: MainFrame: Module compiling took 49.981 seconds
+[2022.12.30-01.11.52:024][981]LogClass: Could not find existing class MentoramaArkanoidGameModeBase in package /Script/MentoramaArkanoid for HotReload, assuming new class
+[2022.12.30-01.11.52:024][981]LogClass: Function OnAllBricksDestroyed is new.
+[2022.12.30-01.11.52:039][981]LogHotReload: Re-instancing MentoramaArkanoidGameModeBase after hot-reload.
+[2022.12.30-01.11.52:055][981]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MentoramaArkanoid' in 0.0011 seconds. Added 8 classes and 2 folders.
+[2022.12.30-01.11.52:065][981]Display: HotReload successful (16 functions remapped  0 scriptstructs remapped)
+[2022.12.30-01.11.52:143][981]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0176 seconds. Added 3830 classes and 930 folders.
+[2022.12.30-01.11.52:143][981]Display: HotReload took 50.1s.
+[2022.12.30-01.16.27:171][799]Candidate modules for hot reload:
+[2022.12.30-01.16.27:171][799]  MentoramaArkanoid
+[2022.12.30-01.16.27:171][799]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,2093 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.16.27:279][799]Warning: Starting HotReload took  0.1s.
+[2022.12.30-01.16.33:384][489]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:16:33 PM
+[2022.12.30-01.16.33:384][489]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.16.33:384][489]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.16.33:384][489]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.16.33:384][489]CompilerResultsLog: Error: D:/UnrealProjects/MentoramaArkanoid/Source/MentoramaArkanoid/MentoramaArkanoidGameModeBase.h(15)  : Error: Missing ';' before 'UCLASS'
+[2022.12.30-01.16.33:384][489]LogMainFrame: MainFrame: Module compiling took 6.220 seconds
+[2022.12.30-01.16.33:384][489]Warning: HotReload failed, recompile failed
+[2022.12.30-01.17.14:379][429]Candidate modules for hot reload:
+[2022.12.30-01.17.14:379][429]  MentoramaArkanoid
+[2022.12.30-01.17.14:380][429]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,3184 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.17.14:395][429]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:17:29 PM
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 5,0677411 seconds
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.17.29:321][139]CompilerResultsLog: Building 6 actions with 24 processes...
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:   [1/6] MentoramaArkanoid.init.gen.cpp
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:   [2/6] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:    D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.cpp(35) : error C2039: ' Broadcast': n?o ? um membro de 'FOnStartRound'
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:   D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.h(10): note: consulte a declara??o de 'FOnStartRound'
+[2022.12.30-01.17.29:321][139]CompilerResultsLog:   [3/6] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-01.17.29:321][139]LogMainFrame: MainFrame: Module compiling took 14.948 seconds
+[2022.12.30-01.17.29:322][139]Warning: HotReload failed, recompile failed
+[2022.12.30-01.18.37:402][251]Candidate modules for hot reload:
+[2022.12.30-01.18.37:402][251]  MentoramaArkanoid
+[2022.12.30-01.18.37:402][251]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,0906 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.18.37:419][251]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.18.45:110][104]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:18:45 PM
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.18.45:111][104]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 5,0768903 seconds
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.18.45:111][104]CompilerResultsLog: Building 5 actions with 24 processes...
+[2022.12.30-01.18.45:111][104]CompilerResultsLog:   [1/5] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.18.45:111][104]CompilerResultsLog:    D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.cpp(35) : error C2039: ' Broadcast': n?o ? um membro de 'FOnStartRound'
+[2022.12.30-01.18.45:111][104]CompilerResultsLog:   D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.h(10): note: consulte a declara??o de 'FOnStartRound'
+[2022.12.30-01.18.45:111][104]CompilerResultsLog:   [2/5] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-01.18.45:111][104]LogMainFrame: MainFrame: Module compiling took 7.717 seconds
+[2022.12.30-01.18.45:111][104]Warning: HotReload failed, recompile failed
+[2022.12.30-01.21.15:112][636]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-01.21.15:120][636]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-01.21.16:267][747]Candidate modules for hot reload:
+[2022.12.30-01.21.16:267][747]  MentoramaArkanoid
+[2022.12.30-01.21.16:267][747]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,0634 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.21.16:279][747]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.21.18:552][967]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:21:18 PM
+[2022.12.30-01.21.18:552][967]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.21.18:552][967]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.21.18:552][967]CompilerResultsLog: Building 4 actions with 24 processes...
+[2022.12.30-01.21.18:552][967]CompilerResultsLog:   [1/4] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.21.18:552][967]CompilerResultsLog:    D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.cpp(35) : error C2039: ' Broadcast': n?o ? um membro de 'FOnStartRound'
+[2022.12.30-01.21.18:552][967]CompilerResultsLog:   D:\UnrealProjects\MentoramaArkanoid\Source\MentoramaArkanoid\MentoramaArkanoidGameModeBase.h(10): note: consulte a declara??o de 'FOnStartRound'
+[2022.12.30-01.21.18:552][967]LogMainFrame: MainFrame: Module compiling took 2.289 seconds
+[2022.12.30-01.21.18:552][967]Warning: HotReload failed, recompile failed
+[2022.12.30-01.25.09:190][274]Candidate modules for hot reload:
+[2022.12.30-01.25.09:190][274]  MentoramaArkanoid
+[2022.12.30-01.25.09:190][274]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,5463 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.25.09:203][274]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.25.15:320][927]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:25:15 PM
+[2022.12.30-01.25.15:320][927]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.25.15:320][927]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.25.15:320][927]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.25.15:320][927]CompilerResultsLog: Error: D:/UnrealProjects/MentoramaArkanoid/Source/MentoramaArkanoid/MentoramaArkanoidGameModeBase.h(15)  : Error: Missing ';' before 'UCLASS'
+[2022.12.30-01.25.15:320][927]LogMainFrame: MainFrame: Module compiling took 6.135 seconds
+[2022.12.30-01.25.15:320][927]Warning: HotReload failed, recompile failed
+[2022.12.30-01.25.28:015][624]Candidate modules for hot reload:
+[2022.12.30-01.25.28:015][624]  MentoramaArkanoid
+[2022.12.30-01.25.28:015][624]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,5230 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.25.28:035][624]Warning: Starting HotReload took  0.1s.
+[2022.12.30-01.25.53:091][528]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:25:53 PM
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 5,173001 seconds
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Building 6 actions with 24 processes...
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [1/6] MentoramaArkanoid.init.gen.cpp
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [2/6] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [3/6] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [4/6] UE4Editor-MentoramaArkanoid-5230.lib
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-5230.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-5230.exp
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [5/6] UE4Editor-MentoramaArkanoid-5230.dll
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-5230.suppressed.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-5230.suppressed.exp
+[2022.12.30-01.25.53:092][528]CompilerResultsLog:   [6/6] MentoramaArkanoidEditor.target
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Total time in Parallel executor: 18,55 seconds
+[2022.12.30-01.25.53:092][528]CompilerResultsLog: Total execution time: 24,87 seconds
+[2022.12.30-01.25.53:092][528]LogMainFrame: MainFrame: Module compiling took 25.116 seconds
+[2022.12.30-01.25.53:102][528]LogClass: Could not find existing class MentoramaArkanoidGameModeBase in package /Script/MentoramaArkanoid for HotReload, assuming new class
+[2022.12.30-01.25.53:102][528]LogClass: Function OnAllBricksDestroyed is new.
+[2022.12.30-01.25.53:109][528]LogHotReload: Re-instancing MentoramaArkanoidGameModeBase after hot-reload.
+[2022.12.30-01.25.53:122][528]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MentoramaArkanoid' in 0.0005 seconds. Added 8 classes and 2 folders.
+[2022.12.30-01.25.53:128][528]Display: HotReload successful (16 functions remapped  0 scriptstructs remapped)
+[2022.12.30-01.25.53:189][528]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3830 classes and 930 folders.
+[2022.12.30-01.25.53:189][528]Display: HotReload took 25.2s.
+[2022.12.30-01.26.04:477][311]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-01.26.04:488][311]LogSlate: Window 'Message Log' being destroyed
+[2022.12.30-01.26.12:162][822]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.30-01.26.12:192][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.30-01.26.12:193][822]PIE: New page: PIE session: MapLevel_01 (Dec 29, 2022, 7:26:12 PM)
+[2022.12.30-01.26.12:193][822]LogPlayLevel: Creating play world package: /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.30-01.26.12:199][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006018s)
+[2022.12.30-01.26.12:201][822]LogAIModule: Creating AISystem for world MapLevel_01
+[2022.12.30-01.26.12:201][822]LogPlayLevel: PIE: World Init took: (0.002034s)
+[2022.12.30-01.26.12:201][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01/MapLevel_01.MapLevel_01 to /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 (0.008347s)
+[2022.12.30-01.26.12:215][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.12.30-01.26.12:220][822]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.30-01.26.12:220][822]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.30-01.26.12:220][822]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.30-01.26.12:221][822]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.30-01.26.12:221][822]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.30-01.26.12:221][822]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.30-01.26.12:221][822]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.30-01.26.12:241][822]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.30-01.26.12:241][822]LogAudioMixer: Display: 1: FrontRight
+[2022.12.30-01.26.12:290][822]LogAudioMixer: Display: Using Audio Device Alto-falantes (HyperX Cloud Stinger Core Wireless + 7.1)
+[2022.12.30-01.26.12:290][822]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.30-01.26.12:290][822]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.30-01.26.12:291][822]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.30-01.26.12:294][822]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.30-01.26.12:294][822]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.30-01.26.12:294][822]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.30-01.26.12:296][822]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.30-01.26.12:297][822]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.30-01.26.12:297][822]LogInit: FAudioDevice initialized.
+[2022.12.30-01.26.12:297][822]LogAudio: Display: Audio Device (ID: 4) registered with world 'MapLevel_01'.
+[2022.12.30-01.26.12:314][822]LogLoad: Game class is 'BP_ArkanoidGameMode_C'
+[2022.12.30-01.26.12:317][822]LogWorld: Bringing World /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 up for play (max tick rate 0) at 2022.12.29-22.26.12
+[2022.12.30-01.26.12:317][822]LogWorld: Bringing up level for play took: 0.001794
+[2022.12.30-01.26.12:317][822]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.12.30-01.26.12:322][822]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.30-01.26.12:323][822]PIE: Server logged in
+[2022.12.30-01.26.12:324][822]PIE: Play in editor total start time 0.148 seconds.
+[2022.12.30-01.27.27:442][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-01.27.27:442][236]LogWorld: BeginTearingDown for /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.30-01.27.27:442][236]LogWorld: UWorld::CleanupWorld for MapLevel_01, bSessionEnded=true, bCleanupResources=true
+[2022.12.30-01.27.27:443][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-01.27.27:455][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.30-01.27.27:457][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.30-01.27.27:484][236]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.30-01.27.27:484][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-01.27.27:486][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.30-01.27.27:491][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.30-01.27.27:493][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.30-01.27.27:519][237]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.12.30-01.33.10:555][423]Candidate modules for hot reload:
+[2022.12.30-01.33.10:555][423]  MentoramaArkanoid
+[2022.12.30-01.33.10:555][423]Launching UnrealBuildTool... [D:/EpicGames/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MentoramaArkanoid,4601 MentoramaArkanoidEditor Win64 Development -Project="D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject" "D:/UnrealProjects/MentoramaArkanoid/MentoramaArkanoid.uproject"  -IgnoreJunk]
+[2022.12.30-01.33.10:568][423]Warning: Starting HotReload took  0.0s.
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: New page: Compilation - Dec 29, 2022, 7:33:29 PM
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Parsing headers for MentoramaArkanoidEditor
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealProjects\MentoramaArkanoid\MentoramaArkanoid.uproject" "D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\MentoramaArkanoidEditor\Development\MentoramaArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\AryGuilherme\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Reflection code generated for MentoramaArkanoidEditor in 5,0350217 seconds
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Building MentoramaArkanoidEditor...
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Building 5 actions with 24 processes...
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   [1/5] MentoramaArkanoidGameModeBase.gen.cpp
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   [2/5] MentoramaArkanoidGameModeBase.cpp
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   [3/5] UE4Editor-MentoramaArkanoid-4601.lib
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-4601.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-4601.exp
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   [4/5] UE4Editor-MentoramaArkanoid-4601.dll
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:      Criando biblioteca D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-4601.suppressed.lib e objeto D:\UnrealProjects\MentoramaArkanoid\Intermediate\Build\Win64\UE4Editor\Development\MentoramaArkanoid\UE4Editor-MentoramaArkanoid-4601.suppressed.exp
+[2022.12.30-01.33.29:510][593]CompilerResultsLog:   [5/5] MentoramaArkanoidEditor.target
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Total time in Parallel executor: 12,57 seconds
+[2022.12.30-01.33.29:510][593]CompilerResultsLog: Total execution time: 18,75 seconds
+[2022.12.30-01.33.29:510][593]LogMainFrame: MainFrame: Module compiling took 18.962 seconds
+[2022.12.30-01.33.29:520][593]LogClass: Could not find existing class MentoramaArkanoidGameModeBase in package /Script/MentoramaArkanoid for HotReload, assuming new class
+[2022.12.30-01.33.29:520][593]LogClass: Function OnAllBricksDestroyed is new.
+[2022.12.30-01.33.29:526][593]LogHotReload: Re-instancing MentoramaArkanoidGameModeBase after hot-reload.
+[2022.12.30-01.33.29:537][593]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MentoramaArkanoid' in 0.0005 seconds. Added 8 classes and 2 folders.
+[2022.12.30-01.33.29:541][593]Display: HotReload successful (16 functions remapped  0 scriptstructs remapped)
+[2022.12.30-01.33.29:599][593]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0136 seconds. Added 3830 classes and 930 folders.
+[2022.12.30-01.33.29:599][593]Display: HotReload took 19.1s.
+[2022.12.30-01.33.32:490][929]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.30-01.33.32:509][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.30-01.33.32:509][929]PIE: New page: PIE session: MapLevel_01 (Dec 29, 2022, 7:33:32 PM)
+[2022.12.30-01.33.32:509][929]LogPlayLevel: Creating play world package: /Game/Levels/Level_01/UEDPIE_0_MapLevel_01
+[2022.12.30-01.33.32:512][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003000s)
+[2022.12.30-01.33.32:514][929]LogAIModule: Creating AISystem for world MapLevel_01
+[2022.12.30-01.33.32:514][929]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2022.12.30-01.33.32:514][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01/MapLevel_01.MapLevel_01 to /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 (0.004624s)
+[2022.12.30-01.33.32:524][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.30-01.33.32:525][929]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.30-01.33.32:525][929]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.30-01.33.32:525][929]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.30-01.33.32:526][929]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.30-01.33.32:526][929]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.30-01.33.32:526][929]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.30-01.33.32:526][929]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.30-01.33.32:538][929]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.30-01.33.32:538][929]LogAudioMixer: Display: 1: FrontRight
+[2022.12.30-01.33.32:564][929]LogAudioMixer: Display: Using Audio Device Alto-falantes (HyperX Cloud Stinger Core Wireless + 7.1)
+[2022.12.30-01.33.32:564][929]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.30-01.33.32:564][929]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.30-01.33.32:564][929]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.30-01.33.32:565][929]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.30-01.33.32:565][929]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.30-01.33.32:565][929]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.30-01.33.32:567][929]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.30-01.33.32:567][929]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.30-01.33.32:567][929]LogInit: FAudioDevice initialized.
+[2022.12.30-01.33.32:567][929]LogAudio: Display: Audio Device (ID: 5) registered with world 'MapLevel_01'.
+[2022.12.30-01.33.32:576][929]LogLoad: Game class is 'BP_ArkanoidGameMode_C'
+[2022.12.30-01.33.32:578][929]LogWorld: Bringing World /Game/Levels/Level_01/UEDPIE_0_MapLevel_01.MapLevel_01 up for play (max tick rate 0) at 2022.12.29-22.33.32
+[2022.12.30-01.33.32:578][929]LogWorld: Bringing up level for play took: 0.000985
+[2022.12.30-01.33.32:578][929]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.12.30-01.33.32:582][929]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.12.30-01.33.32:584][929]PIE: Server logged in
+[2022.12.30-01.33.32:585][929]PIE: Play in editor total start time 0.085 seconds.
+[2022.12.30-01.34.52:764][420]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+MentoramaArkanoidGameModeBase.OnAllBricksDestroyed
+BrickManager.HandleBrickDestroyed
+
+[2022.12.30-01.34.52:765][420]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
